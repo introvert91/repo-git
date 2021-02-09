@@ -1,1 +1,3 @@
-print(«Welcome»);
+print («Welcome»);
+print ("hello everybody")
+print ("Hello")
